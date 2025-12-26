@@ -2,7 +2,7 @@
 # Library-Management-System With Java programming Language
 A simple command line interface where one can mange library ... 
 
-## Accoring to the instruction : 
+## According to the instruction : 
 ```
 Ensure that each project covers critical OOP principles like encapsulation, inheritance,
 polymorphism, and abstraction.
